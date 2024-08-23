@@ -1,3 +1,4 @@
+#find freq of given char
 def freq(arr,n,toFind):
     res = 0
     for i in range(n):

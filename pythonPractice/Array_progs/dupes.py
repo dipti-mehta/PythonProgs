@@ -1,3 +1,5 @@
+# print dupes from array
+
 n = int(input("enter size of array"))
 arr = []
 for i in range(n):

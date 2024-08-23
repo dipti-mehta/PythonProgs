@@ -8,8 +8,6 @@ totalSum = (n*(n+1)//2)
 missingNum = totalSum - sumArr
 print("Missing number is",missingNum)
 
-
-
 # -----------------approach 2---------------------------
 def missarr(arr1):
     arr1.sort()
